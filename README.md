@@ -1,2 +1,2 @@
 # startup-landing-page
-sinple landing page bootstraped for demo
+simple landing page bootstraped for demo
